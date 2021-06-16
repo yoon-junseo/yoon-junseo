@@ -11,5 +11,5 @@
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white"/>
 </div>
-![yoon-junseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoon-junseo&count_private=true&show_icons=true&theme=radical)
 
+![yoon-junseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoon-junseo&count_private=true&show_icons=true&theme=radical)
