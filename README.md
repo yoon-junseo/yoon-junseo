@@ -13,5 +13,4 @@ I'm currently interested in ..
 
 [!yoon-junseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoon-junseo)](https://github.com/yoon-junseo/github-readme-stats)
 
-![yoon-junseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoon-junseo&show_icons=true&theme=radical)
 
